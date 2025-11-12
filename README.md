@@ -477,8 +477,8 @@ public class ProductoService {
 
 ## 👤 Autor
 
-**Nombre completo**: Benjamin Ligonie Wertmiller
-**Legajo**: 50971
+**Nombre completo**:   Carvajal, Rocío Marianela
+**Legajo**: 50834
 **Materia**: Desarrollo de Software
 **Trabajo Práctico**: APIs REST con Spring Boot
 **Año**: 2025
